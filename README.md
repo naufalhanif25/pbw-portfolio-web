@@ -24,5 +24,5 @@ This is a personal website project that will provide information related to myse
     📸 Preview
 </h2>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page1.png" /> 
+<img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page2.png" /> 
