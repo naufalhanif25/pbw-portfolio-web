@@ -26,6 +26,6 @@ This is a personal website project that will provide information related to myse
 
 <div align="center">
     <img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page1.png" style="width: 360px; max-width: 100%;" /> 
-    <br>
+    <br><br>
     <img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page2.png" style="width: 360px; max-width: 100%;" /> 
 </div>
