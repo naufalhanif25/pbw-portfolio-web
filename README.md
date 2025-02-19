@@ -18,3 +18,11 @@
 <b>Naufal Hanif (2308107010025)</b>
 
 This is a personal website project that will provide information related to myself, projects I have completed, services I offer, and my contact information
+
+<!-- Preview -->
+<h2>
+    📸 Preview
+</h2>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
