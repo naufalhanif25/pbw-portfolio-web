@@ -24,5 +24,7 @@ This is a personal website project that will provide information related to myse
     📸 Preview
 </h2>
 
-<img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page1.png" /> 
-<img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page2.png" /> 
+<div align="center">
+    <img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page1.png" style="width: 360px; max-width: 100%;" /> 
+    <img src="https://github.com/naufalhanif25/pbw-portfolio-web/blob/main/page2.png" style="width: 360px; max-width: 100%;" /> 
+</div>
